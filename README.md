@@ -1,5 +1,7 @@
 # Fun with Climate Data
 
-Messing around with some data from the [World Ocean Atlas](https://www.nodc.noaa.gov/cgi-bin/OC5/woa18/woa18.pl?parameter=t).
+Back in college I used to do oceanographic research, and also created a couple of university courses to teach students how to use Python and make cool images like this. Source: [World Ocean Atlas](https://www.nodc.noaa.gov/cgi-bin/OC5/woa18/woa18.pl?parameter=t). 
+
+Checkout the notebook to see how to create this.
 
 ![](woa_animation.gif)
